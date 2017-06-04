@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical" >
+    
+	<TextView
+	    android:id="@+id/txtid_supprimer_contrat"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginTop="10dp"
+	    android:text="@string/id_contrat"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="20sp" />
+
+		<EditText
+	    	android:id="@+id/id_supprimer_contrat"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:inputType="number" />
+		
+		<Button
+		    android:id="@+id/submit_supprimer_contrat"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:background="@color/background_blanc"
+		    android:text="@string/save"
+		    android:textSize="20sp" />
+		
+		<Button
+		    android:id="@+id/submit_lister_supprimer_contrats"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_marginTop="20dp"
+		    android:background="@color/background_blanc"
+		    android:text="@string/list_all_contrats"
+		    android:textSize="20sp" />
+
+</LinearLayout>

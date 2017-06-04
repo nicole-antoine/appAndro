@@ -1,0 +1,66 @@
+<resources>
+	<string name="app_name">Application Tickets</string>
+	<string name="menu_settings">Options</string>
+	<string name="action_settings">Settings</string>
+	<string name="title_activity_test_sqlite_dao">Gérer les interventions</string>
+	<string name="title_activity_authentification">Se connecter</string>
+	<string name="title_activity_contact">Activité Contact</string>
+	<string name="title_activity_intervention">Activité Intervention</string>
+	<string name="title_activity_contrat">Activité Contrat de location</string>
+	<string name="title_activity_preference">Activité Préférence</string>
+	<string name="title_activity_interventionmateriel">Activité Intervention sur Materiel</string>
+	
+	
+	<string name="id_contact">Contact N°</string>
+	<string name="nom">Nom</string>
+	<string name="telephone">Téléphone</string>
+	
+	<string name="save">Sauvegarder</string>
+	<string name="ajouter">Ajouter</string>
+	<string name="modifier">Modifier</string>
+	<string name="supprimer">Supprimer</string>
+	<string name="conseil">Conseil</string>
+	
+	<string name="list_all_contacts">Liste des contacts</string>
+	<string name="list_all_contrats">Liste des contrats</string>
+
+	<string name="id_contrat">ContratLocation N°</string>
+	<string name="id_societe">Societe N°</string>
+	<string name="ticket_gratuit">Tickets au départ</string>
+	<string name="nb_tickets">Tickets restant</string>
+	<string name="date_deb">Date de signature</string>
+	<string name="ptttc">PTTTC</string>
+	<string name="pttva">PTTVA</string>
+	<string name="ptht">PTHT</string>
+	<string name="depot">Dépôt de garantie</string>
+	
+	<string name="id_intervention">Intervention N°</string>
+	<string name="id_materielintervention">MatIntervention N°</string>
+	<string name="date_interv">demande d\'intervention du</string>
+	<string name="commentaire">Commentaire</string>
+	<string name="nom_com">Materiel concerné</string>
+	<string name="etat">Etat de l\'intervention</string>
+	<string name="num_mat">Materiel N°</string>
+	<string name="id_intervenant">N° de l\'employé </string>
+	
+	<string name="login">Se connecter</string>
+	<string name="cancel">Annuler</string> 
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    
+    <string name="ticket">COMPTE-RENDU</string>
+    <string name="tickt_date">Suite à la demande du </string>
+    <string name="tickt_demandeur">Faites par l\'employe n° </string>
+    <string name="tickt_intervention_realisee">Vous avez réalisé une intervention sur le matériel n° </string>
+    <string name="tickt_intervention_datepicker">Pour la finaliser veuillez sélectionner la date où vous êtes intervenus, puis le temps
+        necessaire ainsi que le type d\'intervention.</string>
+	<string name="tickt_duree">Durée : (hh:mm:ss)</string>
+	
+	<string name="intervention_choix">Type d\'intervention</string>
+ 
+    <string-array name="intervention_liste">
+        <item>Appel téléphonique</item>
+        <item>Autres</item>
+        <item>Déplacement</item>
+    </string-array>
+</resources>

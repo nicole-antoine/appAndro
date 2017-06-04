@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignLeft="@+id/name"
+    android:layout_below="@+id/name"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical"
+    android:padding="12dip" >
+
+	<TextView
+	    android:id="@+id/id_contrat"
+	    android:layout_width="310dp"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/id_contrat"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/id_societe"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/id_societe"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/ticket_gratuit"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/ticket_gratuit"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/nb_tickets"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/nb_tickets"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/date_debut"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/date_deb"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/ptttc"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/ptttc"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/pttva"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/pttva"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/ptht"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/ptht"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/depot_garantie"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/depot"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+</LinearLayout>

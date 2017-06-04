@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical"
+    android:scrollbars="vertical" >
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="201dp" >
+    </ListView>
+
+    <Button
+        android:id="@+id/btn_ajouter_contrat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background_orange"
+        android:text="@string/ajouter"
+        android:textColor="@color/background_blanc" />
+
+    <Button
+        android:id="@+id/btn_modifier_contrat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/background_violet"
+        android:text="@string/modifier"
+        android:textColor="@color/background_blanc" />
+
+    <Button
+        android:id="@+id/btn_contrat_supprimer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/background_bleu"
+        android:text="@string/supprimer"
+        android:textColor="@color/background_blanc" />
+
+</LinearLayout>

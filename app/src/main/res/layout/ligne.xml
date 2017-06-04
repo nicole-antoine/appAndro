@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignLeft="@+id/name"
+    android:layout_below="@+id/name"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical"
+    android:padding="12dip" >
+
+	<TextView
+	    android:id="@+id/id_contact"
+	    android:layout_width="304dp"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/id_contact"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/nom"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/nom"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/telephone"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/telephone"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="login"
+        android:summary="Entrez le nom de l&apos;utilisateur"
+        android:title="Nom de l&apos;utilisateur">       
+    </EditTextPreference>
+    
+    <EditTextPreference
+        android:key="password"
+        android:summary="Entrez le mot de passe"
+        android:title="Mot de passe">       
+    </EditTextPreference>
+    
+     <EditTextPreference
+        android:key="adresseip"
+        android:summary="Entrez l'adresse IP"
+        android:title="Adresse IP">       
+    </EditTextPreference>
+</PreferenceScreen>

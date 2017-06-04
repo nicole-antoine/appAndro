@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignLeft="@+id/name"
+    android:layout_below="@+id/name"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical"
+    android:padding="12dip" >
+    
+    <TextView
+	    android:id="@+id/id_materielintervention"
+	    android:layout_width="310dp"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/id_materielintervention"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/nom_com"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/nom_com"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/etat"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/etat"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+	
+	<TextView
+	    android:id="@+id/conseil"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/conseil"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+	
+	<TextView
+	    android:id="@+id/num_mat"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/num_mat"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+</LinearLayout>

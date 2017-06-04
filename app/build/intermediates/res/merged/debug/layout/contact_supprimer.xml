@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical" >
+
+	<TextView
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:layout_marginTop="10dp"
+	    android:text="@string/id_contact"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="20sp" />
+
+	<EditText
+	    android:id="@+id/id_supprimer"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:inputType="number" />
+
+	<TextView
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:text="@string/nom"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="20sp" />
+
+	<EditText
+	    android:id="@+id/nom_supprimer"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:inputType="text" />
+
+	<TextView
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:text="@string/telephone"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="20sp" />
+
+	<EditText
+	    android:id="@+id/telephone_supprimer"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20dp"
+	    android:inputType="phone" />
+
+	<Button
+	    android:id="@+id/submit_supprimer"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@color/background_blanc"
+	    android:text="@string/save"
+	    android:textSize="20sp" />
+
+	<Button
+	    android:id="@+id/lister_supprimer"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="20dp"
+	    android:background="@color/background_blanc"
+	    android:text="@string/list_all_contacts"
+	    android:textSize="20sp" />
+
+</LinearLayout>

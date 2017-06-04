@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignLeft="@+id/name"
+    android:layout_below="@+id/name"
+    android:background="@color/background_bleuclair"
+    android:orientation="vertical"
+    android:padding="12dip" >
+
+	<TextView
+	    android:id="@+id/id_intervention"
+	    android:layout_width="310dp"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/id_intervention"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/date_interv"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="4dp"
+	    android:text="@string/date_interv"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="16sp"
+	    android:textStyle="bold" />
+
+	<TextView
+	    android:id="@+id/commentaire"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/commentaire"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+	<TextView
+	    android:id="@+id/id_intervenant"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/id_intervenant"
+	    android:textColor="@color/background_blanc"
+	    android:textSize="14sp" />
+
+</LinearLayout>

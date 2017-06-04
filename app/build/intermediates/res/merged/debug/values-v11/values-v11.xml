@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
+    <style name="MyCustomTheme" parent="android:Theme.Holo.Light">
+	    <item name="android:textColor">@color/background_bleuclair</item>
+	    <item name="android:textSize">@dimen/padding_large</item>
+	    <item name="android:textStyle">italic</item>
+	    <item name="android:typeface">serif</item>
+	   <!--  <item name="android:background">@color/background_violet</item> -->
+	</style>
+</resources>

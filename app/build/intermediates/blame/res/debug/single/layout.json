@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_modifier.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\contact_modifier.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_ajouter.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\contact_ajouter.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contrat_supprimer.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\contrat_supprimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contrat_ajouter.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\contrat_ajouter.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\les_interventions.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\les_interventions.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\les_contrats.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\les_contrats.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ligne.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\ligne.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\un_ticket.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\un_ticket.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ligne_contratloc.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\ligne_contratloc.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\les_contacts.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\les_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\les_materielinterventions.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\les_materielinterventions.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interface_login.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\interface_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ligne_materielintervention.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\ligne_materielintervention.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contrat_modifier.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\contrat_modifier.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lignes_intervention.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\lignes_intervention.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_supprimer.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\contact_supprimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\redirection_menu.xml",
+        "source": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\layout\\redirection_menu.xml"
+    }
+]

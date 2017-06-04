@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearlayout_menuredirection"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_bleuclair"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_activite_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@color/background_orange"
+        android:text="@string/title_activity_contact"
+        android:textColor="@color/background_blanc"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_activite_contrat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@color/background_violet"
+        android:text="@string/title_activity_contrat"
+        android:textColor="@color/background_blanc"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_activite_preference"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@color/background_bleu"
+        android:text="@string/title_activity_preference"
+        android:textColor="@color/background_blanc"
+        android:textSize="20sp" />
+    
+    <Button
+        android:id="@+id/btn_activite_intervention"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@color/background_violet"
+        android:text="@string/title_activity_intervention"
+        android:textColor="@color/background_blanc"
+        android:textSize="20sp" />
+    
+    <Button
+        android:id="@+id/btn_activite_materielintervention"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="@color/background_bleu"
+        android:text="@string/title_activity_interventionmateriel"
+        android:textColor="@color/background_blanc"
+        android:textSize="20sp" />
+
+</LinearLayout>

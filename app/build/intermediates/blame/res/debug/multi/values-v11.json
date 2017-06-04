@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 73,
+                        "endColumn": 66,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endLine": 9,
+                    "endColumn": 9,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "C:\\Users\\NICOLE Antoine\\StudioProjects\\SQLiteDAO E4\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 141,
+                        "endLine": 8,
+                        "endColumn": 9,
+                        "endOffset": 529
+                    }
+                }
+            }
+        ]
+    }
+]

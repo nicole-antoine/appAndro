@@ -1,0 +1,8 @@
+<resources>
+    <color name="background_bleuclair">#0099CC</color>
+    <color name="background_blanc">#FFFFFF</color>
+    <color name="background_orange">#FF9933</color>
+    <color name="background_violet">#9933FF</color>
+    <color name="background_bleu">#000099</color>
+    <color name="background_vert">#009966</color>
+</resources>

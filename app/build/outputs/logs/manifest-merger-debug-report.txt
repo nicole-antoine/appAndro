@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:1:1-86:12
+	package
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:2:2-33
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:3:2-25
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:5:2-7:35
+	android:targetSdkVersion
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:7:3-32
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:6:3-28
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:8:3-10:23
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:9:8-50
+application
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:11:2-85:16
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:13:3-35
+	android:icon
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:12:3-39
+	android:theme
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:14:3-39
+activity#com.example.authentification.ActiviteLogin
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:16:3-23:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:18:4-29
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:17:4-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:19:4-22:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:21:15-62
+activity#activite.lister.sqlitedao.ActiviteTousLesContacts
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:24:3-27:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:26:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:25:4-68
+activity#activite.modifier.sqlitedao.ActiviteContactModifier
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:28:3-31:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:30:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:29:4-70
+activity#activite.ajouter.sqlitedao.ActiviteContactAjouter
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:32:3-35:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:34:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:33:4-68
+activity#activite.supprimer.sqlitedao.ActiviteContactSupprimer
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:36:3-39:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:38:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:37:4-72
+activity#activite.lister.sqlitedao.ActiviteTousLesContrats
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:41:3-44:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:43:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:42:4-68
+activity#activite.ajouter.sqlitedao.ActiviteContratAjouter
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:45:3-48:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:47:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:46:4-68
+activity#activite.modifier.sqlitedao.ActiviteContratModifier
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:49:3-52:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:51:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:50:4-70
+activity#activite.supprimer.sqlitedao.ActiviteContratSupprimer
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:53:3-56:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:55:4-50
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:54:4-72
+activity#activite.lister.sqlitedao.ActiviteToutesLesInterventions
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:58:4-61:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:60:4-55
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:59:4-75
+activity#activite.lister.sqlitedao.ActiviteToutesLesInterventionsMateriel
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:63:3-66:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:65:4-63
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:64:4-83
+activity#activite.lister.sqlitedao.ActiviteReglementTicket
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:68:4-71:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:70:4-36
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:69:4-68
+activity#com.example.authentification.ActiviteActionLogin
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:73:3-76:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:75:4-59
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:74:4-67
+activity#com.example.preference.Preference
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:77:3-80:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:79:4-53
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:78:4-52
+activity#com.exemple.sqlitedao.data.MenuRedirection
+ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:81:3-84:14
+	android:label
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:83:4-36
+	android:name
+		ADDED from C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\src\main\AndroidManifest.xml:82:4-61

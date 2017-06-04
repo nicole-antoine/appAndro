@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\libs\jtds-1.2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="111abf08f69f350923d34d64267a67d7367d4230">
+        <dex dex="C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\build\intermediates\pre-dexed\debug\jtds-1.2.8_d23f8cf4b7c0f4ae0706dd9ea561a11530381345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\NICOLE Antoine\StudioProjects\SQLiteDAO E4\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_2205dc014a04cdd7fdcc3c6d3e2e8c6be689c2fc.jar" />
+    </item>
+
+</items>
